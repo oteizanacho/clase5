@@ -1,0 +1,14 @@
+[
+    {
+        "titulo" : "descargar windows",
+        "estado" : "terminada"
+    },
+    {
+        "titulo" : "cambiar disco",
+        "estado" : "en progreso"
+    },
+{
+    "titulo" : "instalar windows",
+    "estado" : "pendiente"
+}
+]
